@@ -1,0 +1,5 @@
+{
+  "name": "Visual Presentation Timer",
+  "description": "A timer for presentations that visually indicates the remaining time with changing background colors. Users can set a custom time or use quick presets, and control the timer with start, pause, resume, and reset functions.",
+  "requestFramePermissions": []
+}
